@@ -1,6 +1,6 @@
 <h1># Portfolio</h1>
 
-My Portfolio website gives a description of me and showcases some of my current projects. 
+My Portfolio website gives a description of me and showcases some of my most recent projects. 
 
   <a>
      <img src="https://github.com/LDWood10/LDWood10/blob/main/Portfolio.gif" width="100%"  alt="portfolio"/>
