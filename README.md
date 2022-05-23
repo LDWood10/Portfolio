@@ -2,6 +2,10 @@
 
 My Portfolio website gives a description of me and showcases some of my current projects. 
 
+  <a>
+     <img src="https://github.com/LDWood10/LDWood10/blob/main/Portfolio.gif" width="100%"  alt="portfolio"/>
+  </a>
+
 Link to my Portfolio: https://lesliwood.netlify.app
 
 <h2>How It's Made</h2>
